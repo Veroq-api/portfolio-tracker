@@ -1,5 +1,9 @@
 # Portfolio Tracker
 
+[![License](https://img.shields.io/badge/license-MIT-2EE89A)](LICENSE)
+[![Python](https://img.shields.io/badge/python-3.9+-2EE89A)](https://python.org)
+[![VEROQ](https://img.shields.io/badge/powered%20by-VEROQ-2EE89A)](https://veroq.ai)
+
 Real-time portfolio monitoring with SSE streaming, trade signals, and sentiment tracking. Powered by [VEROQ](https://veroq.ai).
 
 ## Quick Start
